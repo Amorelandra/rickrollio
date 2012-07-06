@@ -1,0 +1,21 @@
+{ 
+	"numbers" : {
+
+		"from" : ""
+		, "to" : [
+
+			""
+			, ""
+			, ""
+			, ""
+		]
+	}
+	, "play" : ""
+	, "accountSid" : ""
+	, "authToken" : "" 
+	, "applicationSid" : ""
+	, "ports" : {
+
+		"app": 6666
+	}
+}

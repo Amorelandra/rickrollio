@@ -1,0 +1,22 @@
+{
+  "name": "rickrollio",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "~3.0.0beta4",
+    "twilio-api": "~0.3.0",
+    "async": "~0.1.22"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  },
+  "author": "Emily Rose <emily@contactvibe.com>",
+  "description": "Rick-roll your friends (or strangers) with twilio!",
+  "repository": {
+    "url": ""
+  }
+}
